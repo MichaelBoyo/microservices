@@ -1,0 +1,4 @@
+com/boyo/clients/notification/NotificationRequest.class
+com/boyo/clients/notification/NotificationClient.class
+com/boyo/clients/fraud/FraudCheckResponse.class
+com/boyo/clients/fraud/FraudClient.class

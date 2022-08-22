@@ -1,0 +1,8 @@
+com/boyo/notification/NotificationController.class
+com/boyo/notification/NotificationRepository.class
+com/boyo/notification/Notification.class
+com/boyo/notification/NotificationApplication.class
+com/boyo/notification/NotificationService.class
+com/boyo/notification/NotificationConfig.class
+com/boyo/notification/Notification$NotificationBuilder.class
+com/boyo/notification/rabbitmq/NotificationConsumer.class

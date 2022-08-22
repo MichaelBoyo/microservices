@@ -1,0 +1,6 @@
+com/boyo/fraud/FraudCheckHistory.class
+com/boyo/fraud/FraudCheckService.class
+com/boyo/fraud/FraudHistoryCheckRepository.class
+com/boyo/fraud/FraudController.class
+com/boyo/fraud/FraudApplication.class
+com/boyo/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
